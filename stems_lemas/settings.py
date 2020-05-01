@@ -56,7 +56,7 @@ ROOT_URLCONF = 'stems_lemas.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['C:/Users/juanv/Documents/TBD/Topicos-Base-de-Datos/vectors/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
